@@ -2,7 +2,8 @@
  * Class: CMSC140 CRN
  * Instructor:
  * Project<number>
- * Description: This is a beginner-friendly C++ console program that interacts with the user, asks for some inputs, and demonstrates basic math operations and division behavior in C++.
+ * Description: This is a beginner-friendly C++ console program that interacts with the user, 
+ * asks for some inputs, and demonstrates basic math operations and division behavior in C++.
  * Due Date: 02/15/2024
  * I pledge that I have completed the programming assignment independently.
    I have not copied the code from a student or any source.
